@@ -1,0 +1,378 @@
+{
+    "TB_CONTENT_HOLLYDAY": [
+        {
+            "CONTENT_ID": 96,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "월요일",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 71665,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "month",
+            "HOLLYDAY_TEXT": "첫째 월요일",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매월"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 72195,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "화요일",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 72197,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "화요일",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 85331,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "월요일",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 85331,
+            "SEQ": 2,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "일요일",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 87999,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "화요일",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 88368,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "목요일",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 89160,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "목요일 휴무",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 89214,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "month",
+            "HOLLYDAY_TEXT": "첫째주 수요일",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매월"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 89279,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "화요일",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 89281,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "월요일",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 89282,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "월요일",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 89286,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "월요일",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 89290,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "목요일",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 89293,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "목요일",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 89328,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "수요일",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 89329,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "월요일",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 89333,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "화요일",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 89363,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "월요일 휴무",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 89415,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "수요일 휴무",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 89466,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "월요일 휴무",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 89554,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "목요일",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 89733,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "day",
+            "HOLLYDAY_TEXT": "15:00~16:30 브레이크타임",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매일"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 89827,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "수요일",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 89827,
+            "SEQ": 2,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "목요일",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 89857,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "수요일 휴무",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 89864,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "month",
+            "HOLLYDAY_TEXT": "1번째 화요일",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매월"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 89864,
+            "SEQ": 2,
+            "HOLLYDAY_TYPE": "month",
+            "HOLLYDAY_TEXT": "3번째 화요일",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매월"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 89864,
+            "SEQ": 3,
+            "HOLLYDAY_TYPE": "month",
+            "HOLLYDAY_TEXT": "5번째 화요일",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매월"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 93310,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "화요일 휴무",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 93520,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "화요일 휴무",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 93520,
+            "SEQ": 2,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "수요일 휴무",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 93537,
+            "SEQ": 1,
+            "HOLLYDAY_TYPE": "week",
+            "HOLLYDAY_TEXT": "수요일 휴무",
+            "B": [
+                {
+                    "HOLLYDAY_TYPE_NM": "매주"
+                }
+            ]
+        }
+    ]
+}

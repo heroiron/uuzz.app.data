@@ -1,0 +1,94 @@
+{
+    "TB_CATEGORY": [
+        {
+            "CATEGORY_ID": "PLACE",
+            "CATEGORY_NM": "관광지",
+            "CATEGORY_IMAGE": "assets/images/category/PLACE.jpg",
+            "CATEGORY_ICON": "fa-landmark"
+        },
+        {
+            "CATEGORY_ID": "STAY",
+            "CATEGORY_NM": "숙박",
+            "CATEGORY_IMAGE": "assets/images/category/STAY.jpg",
+            "CATEGORY_ICON": "fa-bed"
+        },
+        {
+            "CATEGORY_ID": "FOOD",
+            "CATEGORY_NM": "음식점",
+            "CATEGORY_IMAGE": "assets/images/category/FOOD.jpg",
+            "CATEGORY_ICON": "fa-utensils"
+        },
+        {
+            "CATEGORY_ID": "CAFE",
+            "CATEGORY_NM": "카페",
+            "CATEGORY_IMAGE": "assets/images/category/CAFE.jpg",
+            "CATEGORY_ICON": "fa-coffee"
+        },
+        {
+            "CATEGORY_ID": "OREUM",
+            "CATEGORY_NM": "오름",
+            "CATEGORY_IMAGE": "assets/images/category/OREUM.jpg",
+            "CATEGORY_ICON": "fa-mountain"
+        },
+        {
+            "CATEGORY_ID": "ACTIVITY",
+            "CATEGORY_NM": "액티비티",
+            "CATEGORY_IMAGE": "assets/images/category/ACTIVITY.jpg",
+            "CATEGORY_ICON": "fa-hiking"
+        },
+        {
+            "CATEGORY_ID": "ROAD",
+            "CATEGORY_NM": "길",
+            "CATEGORY_IMAGE": "assets/images/category/ROAD.jpg",
+            "CATEGORY_ICON": "fa-road"
+        },
+        {
+            "CATEGORY_ID": "SHOPPING",
+            "CATEGORY_NM": "쇼핑",
+            "CATEGORY_IMAGE": "assets/images/category/SHOPPING.jpg",
+            "CATEGORY_ICON": "fa-shopping-bag"
+        },
+        {
+            "CATEGORY_ID": "FESTIVAL",
+            "CATEGORY_NM": "축제",
+            "CATEGORY_IMAGE": "assets/images/category/FESTIVAL.jpg",
+            "CATEGORY_ICON": "fa-glass-cheers"
+        },
+        {
+            "CATEGORY_ID": "POSITION",
+            "CATEGORY_NM": "지역",
+            "CATEGORY_IMAGE": "assets/images/category/POSITION.jpg",
+            "CATEGORY_ICON": "fa-map-marker-alt"
+        },
+        {
+            "CATEGORY_ID": "OBSERVATION",
+            "CATEGORY_NM": "박물관",
+            "CATEGORY_IMAGE": "assets/images/category/OBSERVATION.jpg",
+            "CATEGORY_ICON": "fa-university"
+        },
+        {
+            "CATEGORY_ID": "CAMPING",
+            "CATEGORY_NM": "캠핑장",
+            "CATEGORY_IMAGE": "assets/images/category/CAMPING.jpg",
+            "CATEGORY_ICON": "fa-campground"
+        },
+        {
+            "CATEGORY_ID": "PARK",
+            "CATEGORY_NM": "공원",
+            "CATEGORY_IMAGE": "assets/images/category/PARK.jpg",
+            "CATEGORY_ICON": "fa-tree"
+        },
+        {
+            "CATEGORY_ID": "SPECIALROAD",
+            "CATEGORY_NM": "특화거리",
+            "CATEGORY_IMAGE": "assets/images/category/SPECIALROAD.jpg",
+            "CATEGORY_ICON": "fa-route"
+        },
+        {
+            "CATEGORY_ID": "TOURINFO",
+            "CATEGORY_NM": "여행정보",
+            "CATEGORY_IMAGE": "assets/images/category/TOURINFO.jpg",
+            "CATEGORY_ICON": "fa-info-circle"
+        }
+    ]
+}

@@ -1,0 +1,345 @@
+{
+    "TB_CONTENT_PAY": [
+        {
+            "CONTENT_ID": 84640,
+            "SEQ": 1,
+            "PAY_TYPE": "price1",
+            "PAY_TEXT": "13000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "성인"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 84640,
+            "SEQ": 2,
+            "PAY_TYPE": "price2",
+            "PAY_TEXT": "12000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "청소년"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 84640,
+            "SEQ": 3,
+            "PAY_TYPE": "price3",
+            "PAY_TEXT": "12000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "어린이"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 84640,
+            "SEQ": 4,
+            "PAY_TYPE": "price4",
+            "PAY_TEXT": "10000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "군경"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 84640,
+            "SEQ": 5,
+            "PAY_TYPE": "price6",
+            "PAY_TEXT": "10000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "장애인"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 88621,
+            "SEQ": 1,
+            "PAY_TYPE": "price1",
+            "PAY_TEXT": "10500",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "성인"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 88621,
+            "SEQ": 2,
+            "PAY_TYPE": "price2",
+            "PAY_TEXT": "9000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "청소년"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 88621,
+            "SEQ": 3,
+            "PAY_TYPE": "price3",
+            "PAY_TEXT": "8000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "어린이"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 88621,
+            "SEQ": 4,
+            "PAY_TYPE": "price8",
+            "PAY_TEXT": "4500",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "경로"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 87859,
+            "SEQ": 1,
+            "PAY_TYPE": "price1",
+            "PAY_TEXT": "9000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "성인"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 87859,
+            "SEQ": 2,
+            "PAY_TYPE": "price2",
+            "PAY_TEXT": "7000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "청소년"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 87859,
+            "SEQ": 3,
+            "PAY_TYPE": "price3",
+            "PAY_TEXT": "6000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "어린이"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 87859,
+            "SEQ": 4,
+            "PAY_TYPE": "price4",
+            "PAY_TEXT": "7000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "군경"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 87859,
+            "SEQ": 5,
+            "PAY_TYPE": "price8",
+            "PAY_TEXT": "7000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "경로"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 87859,
+            "SEQ": 6,
+            "PAY_TYPE": "price5",
+            "PAY_TEXT": "6000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "국가유공자"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 87859,
+            "SEQ": 7,
+            "PAY_TYPE": "price6",
+            "PAY_TEXT": "6000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "장애인"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 71665,
+            "SEQ": 1,
+            "PAY_TYPE": "price1",
+            "PAY_TEXT": "5000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "성인"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 71665,
+            "SEQ": 2,
+            "PAY_TYPE": "price2",
+            "PAY_TEXT": "2500",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "청소년"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 71665,
+            "SEQ": 3,
+            "PAY_TYPE": "price3",
+            "PAY_TEXT": "2500",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "어린이"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 71665,
+            "SEQ": 4,
+            "PAY_TYPE": "price4",
+            "PAY_TEXT": "2500",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "군경"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 71665,
+            "SEQ": 5,
+            "PAY_TYPE": "price11",
+            "PAY_TEXT": "4000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "단체-성인"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 71665,
+            "SEQ": 6,
+            "PAY_TYPE": "price21",
+            "PAY_TEXT": "2000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "단체-청소년"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 71665,
+            "SEQ": 7,
+            "PAY_TYPE": "price31",
+            "PAY_TEXT": "2000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "단체-어린이"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 89214,
+            "SEQ": 1,
+            "PAY_TYPE": "price1",
+            "PAY_TEXT": "4000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "성인"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 85876,
+            "SEQ": 1,
+            "PAY_TYPE": "price1",
+            "PAY_TEXT": "20000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "성인"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 85876,
+            "SEQ": 2,
+            "PAY_TYPE": "price2",
+            "PAY_TEXT": "12000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "청소년"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 85876,
+            "SEQ": 3,
+            "PAY_TYPE": "price3",
+            "PAY_TEXT": "10000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "어린이"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 85876,
+            "SEQ": 4,
+            "PAY_TYPE": "price8",
+            "PAY_TEXT": "12000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "경로"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 85876,
+            "SEQ": 5,
+            "PAY_TYPE": "price5",
+            "PAY_TEXT": "9000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "국가유공자"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 85876,
+            "SEQ": 6,
+            "PAY_TYPE": "price6",
+            "PAY_TEXT": "9000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "장애인"
+                }
+            ]
+        },
+        {
+            "CONTENT_ID": 85876,
+            "SEQ": 7,
+            "PAY_TYPE": "price7",
+            "PAY_TEXT": "16000",
+            "B": [
+                {
+                    "PAY_TYPE_NM": "지역민"
+                }
+            ]
+        }
+    ]
+}

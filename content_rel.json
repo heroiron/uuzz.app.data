@@ -1,0 +1,2836 @@
+{
+    "TB_CONTENT_REL": [
+        {
+            "CONTENT_ID": 71665,
+            "REL_CONTENT_ID": 72196
+        },
+        {
+            "CONTENT_ID": 71665,
+            "REL_CONTENT_ID": 84639
+        },
+        {
+            "CONTENT_ID": 71665,
+            "REL_CONTENT_ID": 85295
+        },
+        {
+            "CONTENT_ID": 71665,
+            "REL_CONTENT_ID": 85844
+        },
+        {
+            "CONTENT_ID": 71665,
+            "REL_CONTENT_ID": 85959
+        },
+        {
+            "CONTENT_ID": 71665,
+            "REL_CONTENT_ID": 86492
+        },
+        {
+            "CONTENT_ID": 71665,
+            "REL_CONTENT_ID": 87308
+        },
+        {
+            "CONTENT_ID": 71665,
+            "REL_CONTENT_ID": 87370
+        },
+        {
+            "CONTENT_ID": 71665,
+            "REL_CONTENT_ID": 87579
+        },
+        {
+            "CONTENT_ID": 71665,
+            "REL_CONTENT_ID": 88389
+        },
+        {
+            "CONTENT_ID": 71665,
+            "REL_CONTENT_ID": 88495
+        },
+        {
+            "CONTENT_ID": 71665,
+            "REL_CONTENT_ID": 88539
+        },
+        {
+            "CONTENT_ID": 71665,
+            "REL_CONTENT_ID": 89276
+        },
+        {
+            "CONTENT_ID": 71665,
+            "REL_CONTENT_ID": 89294
+        },
+        {
+            "CONTENT_ID": 71665,
+            "REL_CONTENT_ID": 89832
+        },
+        {
+            "CONTENT_ID": 71665,
+            "REL_CONTENT_ID": 93197
+        },
+        {
+            "CONTENT_ID": 71665,
+            "REL_CONTENT_ID": 93235
+        },
+        {
+            "CONTENT_ID": 71665,
+            "REL_CONTENT_ID": 93477
+        },
+        {
+            "CONTENT_ID": 71665,
+            "REL_CONTENT_ID": 94773
+        },
+        {
+            "CONTENT_ID": 71665,
+            "REL_CONTENT_ID": 95951
+        },
+        {
+            "CONTENT_ID": 84569,
+            "REL_CONTENT_ID": 84647
+        },
+        {
+            "CONTENT_ID": 84569,
+            "REL_CONTENT_ID": 84823
+        },
+        {
+            "CONTENT_ID": 84569,
+            "REL_CONTENT_ID": 85540
+        },
+        {
+            "CONTENT_ID": 84569,
+            "REL_CONTENT_ID": 87127
+        },
+        {
+            "CONTENT_ID": 84569,
+            "REL_CONTENT_ID": 87261
+        },
+        {
+            "CONTENT_ID": 84569,
+            "REL_CONTENT_ID": 88296
+        },
+        {
+            "CONTENT_ID": 84569,
+            "REL_CONTENT_ID": 88571
+        },
+        {
+            "CONTENT_ID": 84569,
+            "REL_CONTENT_ID": 89074
+        },
+        {
+            "CONTENT_ID": 84569,
+            "REL_CONTENT_ID": 89205
+        },
+        {
+            "CONTENT_ID": 84569,
+            "REL_CONTENT_ID": 89276
+        },
+        {
+            "CONTENT_ID": 84569,
+            "REL_CONTENT_ID": 92429
+        },
+        {
+            "CONTENT_ID": 84569,
+            "REL_CONTENT_ID": 92858
+        },
+        {
+            "CONTENT_ID": 84569,
+            "REL_CONTENT_ID": 92881
+        },
+        {
+            "CONTENT_ID": 84569,
+            "REL_CONTENT_ID": 93516
+        },
+        {
+            "CONTENT_ID": 84569,
+            "REL_CONTENT_ID": 93517
+        },
+        {
+            "CONTENT_ID": 84569,
+            "REL_CONTENT_ID": 93518
+        },
+        {
+            "CONTENT_ID": 84569,
+            "REL_CONTENT_ID": 93537
+        },
+        {
+            "CONTENT_ID": 84569,
+            "REL_CONTENT_ID": 93576
+        },
+        {
+            "CONTENT_ID": 84569,
+            "REL_CONTENT_ID": 94423
+        },
+        {
+            "CONTENT_ID": 84569,
+            "REL_CONTENT_ID": 95911
+        },
+        {
+            "CONTENT_ID": 84639,
+            "REL_CONTENT_ID": 71665
+        },
+        {
+            "CONTENT_ID": 84639,
+            "REL_CONTENT_ID": 72196
+        },
+        {
+            "CONTENT_ID": 84639,
+            "REL_CONTENT_ID": 84608
+        },
+        {
+            "CONTENT_ID": 84639,
+            "REL_CONTENT_ID": 84647
+        },
+        {
+            "CONTENT_ID": 84639,
+            "REL_CONTENT_ID": 85175
+        },
+        {
+            "CONTENT_ID": 84639,
+            "REL_CONTENT_ID": 85791
+        },
+        {
+            "CONTENT_ID": 84639,
+            "REL_CONTENT_ID": 85844
+        },
+        {
+            "CONTENT_ID": 84639,
+            "REL_CONTENT_ID": 85900
+        },
+        {
+            "CONTENT_ID": 84639,
+            "REL_CONTENT_ID": 87308
+        },
+        {
+            "CONTENT_ID": 84639,
+            "REL_CONTENT_ID": 87579
+        },
+        {
+            "CONTENT_ID": 84639,
+            "REL_CONTENT_ID": 88994
+        },
+        {
+            "CONTENT_ID": 84639,
+            "REL_CONTENT_ID": 89207
+        },
+        {
+            "CONTENT_ID": 84639,
+            "REL_CONTENT_ID": 89276
+        },
+        {
+            "CONTENT_ID": 84639,
+            "REL_CONTENT_ID": 89308
+        },
+        {
+            "CONTENT_ID": 84639,
+            "REL_CONTENT_ID": 93326
+        },
+        {
+            "CONTENT_ID": 84639,
+            "REL_CONTENT_ID": 93438
+        },
+        {
+            "CONTENT_ID": 84639,
+            "REL_CONTENT_ID": 93563
+        },
+        {
+            "CONTENT_ID": 84639,
+            "REL_CONTENT_ID": 93679
+        },
+        {
+            "CONTENT_ID": 84639,
+            "REL_CONTENT_ID": 95385
+        },
+        {
+            "CONTENT_ID": 84639,
+            "REL_CONTENT_ID": 95818
+        },
+        {
+            "CONTENT_ID": 84647,
+            "REL_CONTENT_ID": 84794
+        },
+        {
+            "CONTENT_ID": 84647,
+            "REL_CONTENT_ID": 85038
+        },
+        {
+            "CONTENT_ID": 84647,
+            "REL_CONTENT_ID": 85760
+        },
+        {
+            "CONTENT_ID": 84647,
+            "REL_CONTENT_ID": 85844
+        },
+        {
+            "CONTENT_ID": 84647,
+            "REL_CONTENT_ID": 86009
+        },
+        {
+            "CONTENT_ID": 84647,
+            "REL_CONTENT_ID": 87632
+        },
+        {
+            "CONTENT_ID": 84647,
+            "REL_CONTENT_ID": 88639
+        },
+        {
+            "CONTENT_ID": 84647,
+            "REL_CONTENT_ID": 88864
+        },
+        {
+            "CONTENT_ID": 84647,
+            "REL_CONTENT_ID": 89329
+        },
+        {
+            "CONTENT_ID": 84647,
+            "REL_CONTENT_ID": 89546
+        },
+        {
+            "CONTENT_ID": 84647,
+            "REL_CONTENT_ID": 93249
+        },
+        {
+            "CONTENT_ID": 84647,
+            "REL_CONTENT_ID": 93369
+        },
+        {
+            "CONTENT_ID": 84647,
+            "REL_CONTENT_ID": 93677
+        },
+        {
+            "CONTENT_ID": 84647,
+            "REL_CONTENT_ID": 94320
+        },
+        {
+            "CONTENT_ID": 84794,
+            "REL_CONTENT_ID": 93073
+        },
+        {
+            "CONTENT_ID": 84896,
+            "REL_CONTENT_ID": 89104
+        },
+        {
+            "CONTENT_ID": 85523,
+            "REL_CONTENT_ID": 239
+        },
+        {
+            "CONTENT_ID": 85523,
+            "REL_CONTENT_ID": 240
+        },
+        {
+            "CONTENT_ID": 85523,
+            "REL_CONTENT_ID": 25852
+        },
+        {
+            "CONTENT_ID": 85523,
+            "REL_CONTENT_ID": 84569
+        },
+        {
+            "CONTENT_ID": 85523,
+            "REL_CONTENT_ID": 84639
+        },
+        {
+            "CONTENT_ID": 85523,
+            "REL_CONTENT_ID": 84660
+        },
+        {
+            "CONTENT_ID": 85523,
+            "REL_CONTENT_ID": 84712
+        },
+        {
+            "CONTENT_ID": 85523,
+            "REL_CONTENT_ID": 85493
+        },
+        {
+            "CONTENT_ID": 85523,
+            "REL_CONTENT_ID": 85501
+        },
+        {
+            "CONTENT_ID": 85523,
+            "REL_CONTENT_ID": 86187
+        },
+        {
+            "CONTENT_ID": 85523,
+            "REL_CONTENT_ID": 86386
+        },
+        {
+            "CONTENT_ID": 85523,
+            "REL_CONTENT_ID": 86705
+        },
+        {
+            "CONTENT_ID": 85523,
+            "REL_CONTENT_ID": 87105
+        },
+        {
+            "CONTENT_ID": 85523,
+            "REL_CONTENT_ID": 87127
+        },
+        {
+            "CONTENT_ID": 85523,
+            "REL_CONTENT_ID": 88123
+        },
+        {
+            "CONTENT_ID": 85523,
+            "REL_CONTENT_ID": 88574
+        },
+        {
+            "CONTENT_ID": 85523,
+            "REL_CONTENT_ID": 88679
+        },
+        {
+            "CONTENT_ID": 85523,
+            "REL_CONTENT_ID": 89178
+        },
+        {
+            "CONTENT_ID": 85523,
+            "REL_CONTENT_ID": 89207
+        },
+        {
+            "CONTENT_ID": 85523,
+            "REL_CONTENT_ID": 89285
+        },
+        {
+            "CONTENT_ID": 85844,
+            "REL_CONTENT_ID": 25852
+        },
+        {
+            "CONTENT_ID": 85844,
+            "REL_CONTENT_ID": 71665
+        },
+        {
+            "CONTENT_ID": 85844,
+            "REL_CONTENT_ID": 84584
+        },
+        {
+            "CONTENT_ID": 85844,
+            "REL_CONTENT_ID": 84639
+        },
+        {
+            "CONTENT_ID": 85844,
+            "REL_CONTENT_ID": 84647
+        },
+        {
+            "CONTENT_ID": 85844,
+            "REL_CONTENT_ID": 85077
+        },
+        {
+            "CONTENT_ID": 85844,
+            "REL_CONTENT_ID": 85175
+        },
+        {
+            "CONTENT_ID": 85844,
+            "REL_CONTENT_ID": 86247
+        },
+        {
+            "CONTENT_ID": 85844,
+            "REL_CONTENT_ID": 86358
+        },
+        {
+            "CONTENT_ID": 85844,
+            "REL_CONTENT_ID": 86419
+        },
+        {
+            "CONTENT_ID": 85844,
+            "REL_CONTENT_ID": 87127
+        },
+        {
+            "CONTENT_ID": 85844,
+            "REL_CONTENT_ID": 87348
+        },
+        {
+            "CONTENT_ID": 85844,
+            "REL_CONTENT_ID": 88197
+        },
+        {
+            "CONTENT_ID": 85844,
+            "REL_CONTENT_ID": 89064
+        },
+        {
+            "CONTENT_ID": 85844,
+            "REL_CONTENT_ID": 89214
+        },
+        {
+            "CONTENT_ID": 85844,
+            "REL_CONTENT_ID": 89267
+        },
+        {
+            "CONTENT_ID": 85844,
+            "REL_CONTENT_ID": 89276
+        },
+        {
+            "CONTENT_ID": 85844,
+            "REL_CONTENT_ID": 92741
+        },
+        {
+            "CONTENT_ID": 85844,
+            "REL_CONTENT_ID": 92802
+        },
+        {
+            "CONTENT_ID": 85844,
+            "REL_CONTENT_ID": 95776
+        },
+        {
+            "CONTENT_ID": 86414,
+            "REL_CONTENT_ID": 92175
+        },
+        {
+            "CONTENT_ID": 86693,
+            "REL_CONTENT_ID": 243
+        },
+        {
+            "CONTENT_ID": 86693,
+            "REL_CONTENT_ID": 25852
+        },
+        {
+            "CONTENT_ID": 86693,
+            "REL_CONTENT_ID": 25856
+        },
+        {
+            "CONTENT_ID": 86693,
+            "REL_CONTENT_ID": 71665
+        },
+        {
+            "CONTENT_ID": 86693,
+            "REL_CONTENT_ID": 72161
+        },
+        {
+            "CONTENT_ID": 86693,
+            "REL_CONTENT_ID": 85198
+        },
+        {
+            "CONTENT_ID": 86693,
+            "REL_CONTENT_ID": 85202
+        },
+        {
+            "CONTENT_ID": 86693,
+            "REL_CONTENT_ID": 85525
+        },
+        {
+            "CONTENT_ID": 86693,
+            "REL_CONTENT_ID": 85813
+        },
+        {
+            "CONTENT_ID": 86693,
+            "REL_CONTENT_ID": 86634
+        },
+        {
+            "CONTENT_ID": 86693,
+            "REL_CONTENT_ID": 86987
+        },
+        {
+            "CONTENT_ID": 86693,
+            "REL_CONTENT_ID": 87348
+        },
+        {
+            "CONTENT_ID": 86693,
+            "REL_CONTENT_ID": 89014
+        },
+        {
+            "CONTENT_ID": 86693,
+            "REL_CONTENT_ID": 89288
+        },
+        {
+            "CONTENT_ID": 86693,
+            "REL_CONTENT_ID": 89305
+        },
+        {
+            "CONTENT_ID": 86693,
+            "REL_CONTENT_ID": 92827
+        },
+        {
+            "CONTENT_ID": 86693,
+            "REL_CONTENT_ID": 93024
+        },
+        {
+            "CONTENT_ID": 86693,
+            "REL_CONTENT_ID": 93027
+        },
+        {
+            "CONTENT_ID": 87235,
+            "REL_CONTENT_ID": 243
+        },
+        {
+            "CONTENT_ID": 87235,
+            "REL_CONTENT_ID": 244
+        },
+        {
+            "CONTENT_ID": 87235,
+            "REL_CONTENT_ID": 84586
+        },
+        {
+            "CONTENT_ID": 87235,
+            "REL_CONTENT_ID": 85119
+        },
+        {
+            "CONTENT_ID": 87235,
+            "REL_CONTENT_ID": 85550
+        },
+        {
+            "CONTENT_ID": 87235,
+            "REL_CONTENT_ID": 85749
+        },
+        {
+            "CONTENT_ID": 87235,
+            "REL_CONTENT_ID": 87295
+        },
+        {
+            "CONTENT_ID": 87235,
+            "REL_CONTENT_ID": 87347
+        },
+        {
+            "CONTENT_ID": 87235,
+            "REL_CONTENT_ID": 87859
+        },
+        {
+            "CONTENT_ID": 87235,
+            "REL_CONTENT_ID": 87918
+        },
+        {
+            "CONTENT_ID": 87235,
+            "REL_CONTENT_ID": 88275
+        },
+        {
+            "CONTENT_ID": 87235,
+            "REL_CONTENT_ID": 88442
+        },
+        {
+            "CONTENT_ID": 87235,
+            "REL_CONTENT_ID": 88864
+        },
+        {
+            "CONTENT_ID": 87235,
+            "REL_CONTENT_ID": 89285
+        },
+        {
+            "CONTENT_ID": 87235,
+            "REL_CONTENT_ID": 89324
+        },
+        {
+            "CONTENT_ID": 87235,
+            "REL_CONTENT_ID": 92618
+        },
+        {
+            "CONTENT_ID": 87235,
+            "REL_CONTENT_ID": 92817
+        },
+        {
+            "CONTENT_ID": 87235,
+            "REL_CONTENT_ID": 93313
+        },
+        {
+            "CONTENT_ID": 87235,
+            "REL_CONTENT_ID": 93513
+        },
+        {
+            "CONTENT_ID": 87235,
+            "REL_CONTENT_ID": 93573
+        },
+        {
+            "CONTENT_ID": 88109,
+            "REL_CONTENT_ID": 93525
+        },
+        {
+            "CONTENT_ID": 88109,
+            "REL_CONTENT_ID": 93526
+        },
+        {
+            "CONTENT_ID": 88109,
+            "REL_CONTENT_ID": 93527
+        },
+        {
+            "CONTENT_ID": 88109,
+            "REL_CONTENT_ID": 93528
+        },
+        {
+            "CONTENT_ID": 88203,
+            "REL_CONTENT_ID": 25852
+        },
+        {
+            "CONTENT_ID": 88203,
+            "REL_CONTENT_ID": 71665
+        },
+        {
+            "CONTENT_ID": 88203,
+            "REL_CONTENT_ID": 84639
+        },
+        {
+            "CONTENT_ID": 88203,
+            "REL_CONTENT_ID": 84647
+        },
+        {
+            "CONTENT_ID": 88203,
+            "REL_CONTENT_ID": 84662
+        },
+        {
+            "CONTENT_ID": 88203,
+            "REL_CONTENT_ID": 84911
+        },
+        {
+            "CONTENT_ID": 88203,
+            "REL_CONTENT_ID": 85844
+        },
+        {
+            "CONTENT_ID": 88203,
+            "REL_CONTENT_ID": 86200
+        },
+        {
+            "CONTENT_ID": 88203,
+            "REL_CONTENT_ID": 86358
+        },
+        {
+            "CONTENT_ID": 88203,
+            "REL_CONTENT_ID": 87308
+        },
+        {
+            "CONTENT_ID": 88203,
+            "REL_CONTENT_ID": 87524
+        },
+        {
+            "CONTENT_ID": 88203,
+            "REL_CONTENT_ID": 87859
+        },
+        {
+            "CONTENT_ID": 88203,
+            "REL_CONTENT_ID": 88170
+        },
+        {
+            "CONTENT_ID": 88203,
+            "REL_CONTENT_ID": 88197
+        },
+        {
+            "CONTENT_ID": 88203,
+            "REL_CONTENT_ID": 89152
+        },
+        {
+            "CONTENT_ID": 88203,
+            "REL_CONTENT_ID": 89276
+        },
+        {
+            "CONTENT_ID": 88203,
+            "REL_CONTENT_ID": 91446
+        },
+        {
+            "CONTENT_ID": 88203,
+            "REL_CONTENT_ID": 92802
+        },
+        {
+            "CONTENT_ID": 88203,
+            "REL_CONTENT_ID": 92832
+        },
+        {
+            "CONTENT_ID": 88203,
+            "REL_CONTENT_ID": 94666
+        },
+        {
+            "CONTENT_ID": 88275,
+            "REL_CONTENT_ID": 243
+        },
+        {
+            "CONTENT_ID": 88275,
+            "REL_CONTENT_ID": 84808
+        },
+        {
+            "CONTENT_ID": 88275,
+            "REL_CONTENT_ID": 85550
+        },
+        {
+            "CONTENT_ID": 88275,
+            "REL_CONTENT_ID": 85577
+        },
+        {
+            "CONTENT_ID": 88275,
+            "REL_CONTENT_ID": 86798
+        },
+        {
+            "CONTENT_ID": 88275,
+            "REL_CONTENT_ID": 87048
+        },
+        {
+            "CONTENT_ID": 88275,
+            "REL_CONTENT_ID": 87235
+        },
+        {
+            "CONTENT_ID": 88275,
+            "REL_CONTENT_ID": 87918
+        },
+        {
+            "CONTENT_ID": 88275,
+            "REL_CONTENT_ID": 88485
+        },
+        {
+            "CONTENT_ID": 88275,
+            "REL_CONTENT_ID": 88549
+        },
+        {
+            "CONTENT_ID": 88275,
+            "REL_CONTENT_ID": 88558
+        },
+        {
+            "CONTENT_ID": 88275,
+            "REL_CONTENT_ID": 89127
+        },
+        {
+            "CONTENT_ID": 88275,
+            "REL_CONTENT_ID": 89202
+        },
+        {
+            "CONTENT_ID": 88275,
+            "REL_CONTENT_ID": 89324
+        },
+        {
+            "CONTENT_ID": 88275,
+            "REL_CONTENT_ID": 92618
+        },
+        {
+            "CONTENT_ID": 88275,
+            "REL_CONTENT_ID": 93236
+        },
+        {
+            "CONTENT_ID": 88275,
+            "REL_CONTENT_ID": 93479
+        },
+        {
+            "CONTENT_ID": 88275,
+            "REL_CONTENT_ID": 93684
+        },
+        {
+            "CONTENT_ID": 88275,
+            "REL_CONTENT_ID": 93689
+        },
+        {
+            "CONTENT_ID": 88275,
+            "REL_CONTENT_ID": 94447
+        },
+        {
+            "CONTENT_ID": 88296,
+            "REL_CONTENT_ID": 243
+        },
+        {
+            "CONTENT_ID": 88296,
+            "REL_CONTENT_ID": 25852
+        },
+        {
+            "CONTENT_ID": 88296,
+            "REL_CONTENT_ID": 71665
+        },
+        {
+            "CONTENT_ID": 88296,
+            "REL_CONTENT_ID": 84569
+        },
+        {
+            "CONTENT_ID": 88296,
+            "REL_CONTENT_ID": 84647
+        },
+        {
+            "CONTENT_ID": 88296,
+            "REL_CONTENT_ID": 85550
+        },
+        {
+            "CONTENT_ID": 88296,
+            "REL_CONTENT_ID": 85844
+        },
+        {
+            "CONTENT_ID": 88296,
+            "REL_CONTENT_ID": 86009
+        },
+        {
+            "CONTENT_ID": 88296,
+            "REL_CONTENT_ID": 87127
+        },
+        {
+            "CONTENT_ID": 88296,
+            "REL_CONTENT_ID": 87261
+        },
+        {
+            "CONTENT_ID": 88296,
+            "REL_CONTENT_ID": 87918
+        },
+        {
+            "CONTENT_ID": 88296,
+            "REL_CONTENT_ID": 88109
+        },
+        {
+            "CONTENT_ID": 88296,
+            "REL_CONTENT_ID": 88203
+        },
+        {
+            "CONTENT_ID": 88296,
+            "REL_CONTENT_ID": 88275
+        },
+        {
+            "CONTENT_ID": 88296,
+            "REL_CONTENT_ID": 89271
+        },
+        {
+            "CONTENT_ID": 88296,
+            "REL_CONTENT_ID": 89276
+        },
+        {
+            "CONTENT_ID": 88296,
+            "REL_CONTENT_ID": 89324
+        },
+        {
+            "CONTENT_ID": 88296,
+            "REL_CONTENT_ID": 92817
+        },
+        {
+            "CONTENT_ID": 88296,
+            "REL_CONTENT_ID": 92881
+        },
+        {
+            "CONTENT_ID": 88296,
+            "REL_CONTENT_ID": 93677
+        },
+        {
+            "CONTENT_ID": 88317,
+            "REL_CONTENT_ID": 89454
+        },
+        {
+            "CONTENT_ID": 88317,
+            "REL_CONTENT_ID": 93552
+        },
+        {
+            "CONTENT_ID": 88317,
+            "REL_CONTENT_ID": 93553
+        },
+        {
+            "CONTENT_ID": 88317,
+            "REL_CONTENT_ID": 93554
+        },
+        {
+            "CONTENT_ID": 88317,
+            "REL_CONTENT_ID": 93555
+        },
+        {
+            "CONTENT_ID": 88317,
+            "REL_CONTENT_ID": 93556
+        },
+        {
+            "CONTENT_ID": 88654,
+            "REL_CONTENT_ID": 85331
+        },
+        {
+            "CONTENT_ID": 88654,
+            "REL_CONTENT_ID": 85581
+        },
+        {
+            "CONTENT_ID": 88654,
+            "REL_CONTENT_ID": 87127
+        },
+        {
+            "CONTENT_ID": 88654,
+            "REL_CONTENT_ID": 88296
+        },
+        {
+            "CONTENT_ID": 88654,
+            "REL_CONTENT_ID": 88557
+        },
+        {
+            "CONTENT_ID": 88654,
+            "REL_CONTENT_ID": 89084
+        },
+        {
+            "CONTENT_ID": 88679,
+            "REL_CONTENT_ID": 239
+        },
+        {
+            "CONTENT_ID": 88679,
+            "REL_CONTENT_ID": 240
+        },
+        {
+            "CONTENT_ID": 88679,
+            "REL_CONTENT_ID": 243
+        },
+        {
+            "CONTENT_ID": 88679,
+            "REL_CONTENT_ID": 244
+        },
+        {
+            "CONTENT_ID": 88679,
+            "REL_CONTENT_ID": 84660
+        },
+        {
+            "CONTENT_ID": 88679,
+            "REL_CONTENT_ID": 85523
+        },
+        {
+            "CONTENT_ID": 88679,
+            "REL_CONTENT_ID": 85738
+        },
+        {
+            "CONTENT_ID": 88679,
+            "REL_CONTENT_ID": 86381
+        },
+        {
+            "CONTENT_ID": 88679,
+            "REL_CONTENT_ID": 87235
+        },
+        {
+            "CONTENT_ID": 88679,
+            "REL_CONTENT_ID": 87739
+        },
+        {
+            "CONTENT_ID": 88679,
+            "REL_CONTENT_ID": 88296
+        },
+        {
+            "CONTENT_ID": 88679,
+            "REL_CONTENT_ID": 88411
+        },
+        {
+            "CONTENT_ID": 88679,
+            "REL_CONTENT_ID": 88544
+        },
+        {
+            "CONTENT_ID": 88679,
+            "REL_CONTENT_ID": 89207
+        },
+        {
+            "CONTENT_ID": 88679,
+            "REL_CONTENT_ID": 89276
+        },
+        {
+            "CONTENT_ID": 88679,
+            "REL_CONTENT_ID": 89286
+        },
+        {
+            "CONTENT_ID": 88679,
+            "REL_CONTENT_ID": 89324
+        },
+        {
+            "CONTENT_ID": 88679,
+            "REL_CONTENT_ID": 92774
+        },
+        {
+            "CONTENT_ID": 88679,
+            "REL_CONTENT_ID": 93104
+        },
+        {
+            "CONTENT_ID": 88679,
+            "REL_CONTENT_ID": 93608
+        },
+        {
+            "CONTENT_ID": 88864,
+            "REL_CONTENT_ID": 96
+        },
+        {
+            "CONTENT_ID": 88864,
+            "REL_CONTENT_ID": 239
+        },
+        {
+            "CONTENT_ID": 88864,
+            "REL_CONTENT_ID": 240
+        },
+        {
+            "CONTENT_ID": 88864,
+            "REL_CONTENT_ID": 242
+        },
+        {
+            "CONTENT_ID": 88864,
+            "REL_CONTENT_ID": 84639
+        },
+        {
+            "CONTENT_ID": 88864,
+            "REL_CONTENT_ID": 84647
+        },
+        {
+            "CONTENT_ID": 88864,
+            "REL_CONTENT_ID": 84660
+        },
+        {
+            "CONTENT_ID": 88864,
+            "REL_CONTENT_ID": 85550
+        },
+        {
+            "CONTENT_ID": 88864,
+            "REL_CONTENT_ID": 86366
+        },
+        {
+            "CONTENT_ID": 88864,
+            "REL_CONTENT_ID": 87127
+        },
+        {
+            "CONTENT_ID": 88864,
+            "REL_CONTENT_ID": 87235
+        },
+        {
+            "CONTENT_ID": 88864,
+            "REL_CONTENT_ID": 87729
+        },
+        {
+            "CONTENT_ID": 88864,
+            "REL_CONTENT_ID": 87859
+        },
+        {
+            "CONTENT_ID": 88864,
+            "REL_CONTENT_ID": 87901
+        },
+        {
+            "CONTENT_ID": 88864,
+            "REL_CONTENT_ID": 88986
+        },
+        {
+            "CONTENT_ID": 88864,
+            "REL_CONTENT_ID": 89080
+        },
+        {
+            "CONTENT_ID": 88864,
+            "REL_CONTENT_ID": 89178
+        },
+        {
+            "CONTENT_ID": 88864,
+            "REL_CONTENT_ID": 89207
+        },
+        {
+            "CONTENT_ID": 88864,
+            "REL_CONTENT_ID": 92881
+        },
+        {
+            "CONTENT_ID": 88864,
+            "REL_CONTENT_ID": 93254
+        },
+        {
+            "CONTENT_ID": 88986,
+            "REL_CONTENT_ID": 88993
+        },
+        {
+            "CONTENT_ID": 88986,
+            "REL_CONTENT_ID": 93822
+        },
+        {
+            "CONTENT_ID": 89202,
+            "REL_CONTENT_ID": 244
+        },
+        {
+            "CONTENT_ID": 89202,
+            "REL_CONTENT_ID": 84840
+        },
+        {
+            "CONTENT_ID": 89202,
+            "REL_CONTENT_ID": 85299
+        },
+        {
+            "CONTENT_ID": 89202,
+            "REL_CONTENT_ID": 85550
+        },
+        {
+            "CONTENT_ID": 89202,
+            "REL_CONTENT_ID": 86163
+        },
+        {
+            "CONTENT_ID": 89202,
+            "REL_CONTENT_ID": 86798
+        },
+        {
+            "CONTENT_ID": 89202,
+            "REL_CONTENT_ID": 87235
+        },
+        {
+            "CONTENT_ID": 89202,
+            "REL_CONTENT_ID": 87785
+        },
+        {
+            "CONTENT_ID": 89202,
+            "REL_CONTENT_ID": 87918
+        },
+        {
+            "CONTENT_ID": 89202,
+            "REL_CONTENT_ID": 88047
+        },
+        {
+            "CONTENT_ID": 89202,
+            "REL_CONTENT_ID": 88175
+        },
+        {
+            "CONTENT_ID": 89202,
+            "REL_CONTENT_ID": 88275
+        },
+        {
+            "CONTENT_ID": 89202,
+            "REL_CONTENT_ID": 88442
+        },
+        {
+            "CONTENT_ID": 89202,
+            "REL_CONTENT_ID": 89051
+        },
+        {
+            "CONTENT_ID": 89202,
+            "REL_CONTENT_ID": 89324
+        },
+        {
+            "CONTENT_ID": 89202,
+            "REL_CONTENT_ID": 92806
+        },
+        {
+            "CONTENT_ID": 89202,
+            "REL_CONTENT_ID": 92817
+        },
+        {
+            "CONTENT_ID": 89202,
+            "REL_CONTENT_ID": 92881
+        },
+        {
+            "CONTENT_ID": 89202,
+            "REL_CONTENT_ID": 92987
+        },
+        {
+            "CONTENT_ID": 89202,
+            "REL_CONTENT_ID": 93059
+        },
+        {
+            "CONTENT_ID": 89283,
+            "REL_CONTENT_ID": 84888
+        },
+        {
+            "CONTENT_ID": 89283,
+            "REL_CONTENT_ID": 85550
+        },
+        {
+            "CONTENT_ID": 89283,
+            "REL_CONTENT_ID": 85577
+        },
+        {
+            "CONTENT_ID": 89283,
+            "REL_CONTENT_ID": 87048
+        },
+        {
+            "CONTENT_ID": 89283,
+            "REL_CONTENT_ID": 87127
+        },
+        {
+            "CONTENT_ID": 89283,
+            "REL_CONTENT_ID": 87261
+        },
+        {
+            "CONTENT_ID": 89283,
+            "REL_CONTENT_ID": 87650
+        },
+        {
+            "CONTENT_ID": 89283,
+            "REL_CONTENT_ID": 87918
+        },
+        {
+            "CONTENT_ID": 89283,
+            "REL_CONTENT_ID": 88275
+        },
+        {
+            "CONTENT_ID": 89283,
+            "REL_CONTENT_ID": 88296
+        },
+        {
+            "CONTENT_ID": 89283,
+            "REL_CONTENT_ID": 88422
+        },
+        {
+            "CONTENT_ID": 89283,
+            "REL_CONTENT_ID": 89202
+        },
+        {
+            "CONTENT_ID": 89283,
+            "REL_CONTENT_ID": 89287
+        },
+        {
+            "CONTENT_ID": 89283,
+            "REL_CONTENT_ID": 89324
+        },
+        {
+            "CONTENT_ID": 89283,
+            "REL_CONTENT_ID": 92618
+        },
+        {
+            "CONTENT_ID": 89283,
+            "REL_CONTENT_ID": 92817
+        },
+        {
+            "CONTENT_ID": 89283,
+            "REL_CONTENT_ID": 93022
+        },
+        {
+            "CONTENT_ID": 89283,
+            "REL_CONTENT_ID": 93488
+        },
+        {
+            "CONTENT_ID": 89283,
+            "REL_CONTENT_ID": 93537
+        },
+        {
+            "CONTENT_ID": 89283,
+            "REL_CONTENT_ID": 93647
+        },
+        {
+            "CONTENT_ID": 89285,
+            "REL_CONTENT_ID": 84590
+        },
+        {
+            "CONTENT_ID": 89285,
+            "REL_CONTENT_ID": 91800
+        },
+        {
+            "CONTENT_ID": 89285,
+            "REL_CONTENT_ID": 93142
+        },
+        {
+            "CONTENT_ID": 89285,
+            "REL_CONTENT_ID": 94117
+        },
+        {
+            "CONTENT_ID": 89285,
+            "REL_CONTENT_ID": 94118
+        },
+        {
+            "CONTENT_ID": 89285,
+            "REL_CONTENT_ID": 94119
+        },
+        {
+            "CONTENT_ID": 89285,
+            "REL_CONTENT_ID": 94120
+        },
+        {
+            "CONTENT_ID": 89286,
+            "REL_CONTENT_ID": 240
+        },
+        {
+            "CONTENT_ID": 89286,
+            "REL_CONTENT_ID": 243
+        },
+        {
+            "CONTENT_ID": 89286,
+            "REL_CONTENT_ID": 71665
+        },
+        {
+            "CONTENT_ID": 89286,
+            "REL_CONTENT_ID": 85158
+        },
+        {
+            "CONTENT_ID": 89286,
+            "REL_CONTENT_ID": 85550
+        },
+        {
+            "CONTENT_ID": 89286,
+            "REL_CONTENT_ID": 86366
+        },
+        {
+            "CONTENT_ID": 89286,
+            "REL_CONTENT_ID": 86467
+        },
+        {
+            "CONTENT_ID": 89286,
+            "REL_CONTENT_ID": 87235
+        },
+        {
+            "CONTENT_ID": 89286,
+            "REL_CONTENT_ID": 87729
+        },
+        {
+            "CONTENT_ID": 89286,
+            "REL_CONTENT_ID": 88296
+        },
+        {
+            "CONTENT_ID": 89286,
+            "REL_CONTENT_ID": 88442
+        },
+        {
+            "CONTENT_ID": 89286,
+            "REL_CONTENT_ID": 88679
+        },
+        {
+            "CONTENT_ID": 89286,
+            "REL_CONTENT_ID": 89276
+        },
+        {
+            "CONTENT_ID": 89286,
+            "REL_CONTENT_ID": 89324
+        },
+        {
+            "CONTENT_ID": 89286,
+            "REL_CONTENT_ID": 92913
+        },
+        {
+            "CONTENT_ID": 89286,
+            "REL_CONTENT_ID": 93071
+        },
+        {
+            "CONTENT_ID": 89286,
+            "REL_CONTENT_ID": 93178
+        },
+        {
+            "CONTENT_ID": 89286,
+            "REL_CONTENT_ID": 93511
+        },
+        {
+            "CONTENT_ID": 89286,
+            "REL_CONTENT_ID": 94248
+        },
+        {
+            "CONTENT_ID": 89286,
+            "REL_CONTENT_ID": 94329
+        },
+        {
+            "CONTENT_ID": 89294,
+            "REL_CONTENT_ID": 89452
+        },
+        {
+            "CONTENT_ID": 89294,
+            "REL_CONTENT_ID": 93599
+        },
+        {
+            "CONTENT_ID": 89294,
+            "REL_CONTENT_ID": 93626
+        },
+        {
+            "CONTENT_ID": 91020,
+            "REL_CONTENT_ID": 95752
+        },
+        {
+            "CONTENT_ID": 92096,
+            "REL_CONTENT_ID": 92098
+        },
+        {
+            "CONTENT_ID": 92760,
+            "REL_CONTENT_ID": 84572
+        },
+        {
+            "CONTENT_ID": 92760,
+            "REL_CONTENT_ID": 85550
+        },
+        {
+            "CONTENT_ID": 92760,
+            "REL_CONTENT_ID": 85620
+        },
+        {
+            "CONTENT_ID": 92760,
+            "REL_CONTENT_ID": 85932
+        },
+        {
+            "CONTENT_ID": 92760,
+            "REL_CONTENT_ID": 86421
+        },
+        {
+            "CONTENT_ID": 92760,
+            "REL_CONTENT_ID": 87048
+        },
+        {
+            "CONTENT_ID": 92760,
+            "REL_CONTENT_ID": 87918
+        },
+        {
+            "CONTENT_ID": 92760,
+            "REL_CONTENT_ID": 87999
+        },
+        {
+            "CONTENT_ID": 92760,
+            "REL_CONTENT_ID": 88673
+        },
+        {
+            "CONTENT_ID": 92760,
+            "REL_CONTENT_ID": 89064
+        },
+        {
+            "CONTENT_ID": 92760,
+            "REL_CONTENT_ID": 92429
+        },
+        {
+            "CONTENT_ID": 92760,
+            "REL_CONTENT_ID": 92817
+        },
+        {
+            "CONTENT_ID": 92760,
+            "REL_CONTENT_ID": 93573
+        },
+        {
+            "CONTENT_ID": 92876,
+            "REL_CONTENT_ID": 92874
+        },
+        {
+            "CONTENT_ID": 92876,
+            "REL_CONTENT_ID": 92875
+        },
+        {
+            "CONTENT_ID": 92981,
+            "REL_CONTENT_ID": 72196
+        },
+        {
+            "CONTENT_ID": 92981,
+            "REL_CONTENT_ID": 84639
+        },
+        {
+            "CONTENT_ID": 92981,
+            "REL_CONTENT_ID": 84647
+        },
+        {
+            "CONTENT_ID": 92981,
+            "REL_CONTENT_ID": 85295
+        },
+        {
+            "CONTENT_ID": 92981,
+            "REL_CONTENT_ID": 85500
+        },
+        {
+            "CONTENT_ID": 92981,
+            "REL_CONTENT_ID": 86798
+        },
+        {
+            "CONTENT_ID": 92981,
+            "REL_CONTENT_ID": 86848
+        },
+        {
+            "CONTENT_ID": 92981,
+            "REL_CONTENT_ID": 87649
+        },
+        {
+            "CONTENT_ID": 92981,
+            "REL_CONTENT_ID": 87999
+        },
+        {
+            "CONTENT_ID": 92981,
+            "REL_CONTENT_ID": 88503
+        },
+        {
+            "CONTENT_ID": 92981,
+            "REL_CONTENT_ID": 88664
+        },
+        {
+            "CONTENT_ID": 92981,
+            "REL_CONTENT_ID": 89276
+        },
+        {
+            "CONTENT_ID": 92981,
+            "REL_CONTENT_ID": 89583
+        },
+        {
+            "CONTENT_ID": 92981,
+            "REL_CONTENT_ID": 92788
+        },
+        {
+            "CONTENT_ID": 92981,
+            "REL_CONTENT_ID": 92982
+        },
+        {
+            "CONTENT_ID": 92981,
+            "REL_CONTENT_ID": 93179
+        },
+        {
+            "CONTENT_ID": 92981,
+            "REL_CONTENT_ID": 93200
+        },
+        {
+            "CONTENT_ID": 92981,
+            "REL_CONTENT_ID": 94443
+        },
+        {
+            "CONTENT_ID": 92981,
+            "REL_CONTENT_ID": 94814
+        },
+        {
+            "CONTENT_ID": 92981,
+            "REL_CONTENT_ID": 95562
+        },
+        {
+            "CONTENT_ID": 93022,
+            "REL_CONTENT_ID": 39078
+        },
+        {
+            "CONTENT_ID": 93022,
+            "REL_CONTENT_ID": 84888
+        },
+        {
+            "CONTENT_ID": 93022,
+            "REL_CONTENT_ID": 85042
+        },
+        {
+            "CONTENT_ID": 93022,
+            "REL_CONTENT_ID": 85460
+        },
+        {
+            "CONTENT_ID": 93022,
+            "REL_CONTENT_ID": 85550
+        },
+        {
+            "CONTENT_ID": 93022,
+            "REL_CONTENT_ID": 85577
+        },
+        {
+            "CONTENT_ID": 93022,
+            "REL_CONTENT_ID": 86498
+        },
+        {
+            "CONTENT_ID": 93022,
+            "REL_CONTENT_ID": 86926
+        },
+        {
+            "CONTENT_ID": 93022,
+            "REL_CONTENT_ID": 87127
+        },
+        {
+            "CONTENT_ID": 93022,
+            "REL_CONTENT_ID": 87650
+        },
+        {
+            "CONTENT_ID": 93022,
+            "REL_CONTENT_ID": 87918
+        },
+        {
+            "CONTENT_ID": 93022,
+            "REL_CONTENT_ID": 88275
+        },
+        {
+            "CONTENT_ID": 93022,
+            "REL_CONTENT_ID": 88895
+        },
+        {
+            "CONTENT_ID": 93022,
+            "REL_CONTENT_ID": 89283
+        },
+        {
+            "CONTENT_ID": 93022,
+            "REL_CONTENT_ID": 89287
+        },
+        {
+            "CONTENT_ID": 93022,
+            "REL_CONTENT_ID": 89324
+        },
+        {
+            "CONTENT_ID": 93022,
+            "REL_CONTENT_ID": 92618
+        },
+        {
+            "CONTENT_ID": 93022,
+            "REL_CONTENT_ID": 92824
+        },
+        {
+            "CONTENT_ID": 93022,
+            "REL_CONTENT_ID": 92881
+        },
+        {
+            "CONTENT_ID": 93022,
+            "REL_CONTENT_ID": 93488
+        },
+        {
+            "CONTENT_ID": 93138,
+            "REL_CONTENT_ID": 93129
+        },
+        {
+            "CONTENT_ID": 93138,
+            "REL_CONTENT_ID": 93130
+        },
+        {
+            "CONTENT_ID": 93138,
+            "REL_CONTENT_ID": 93131
+        },
+        {
+            "CONTENT_ID": 93138,
+            "REL_CONTENT_ID": 93132
+        },
+        {
+            "CONTENT_ID": 93138,
+            "REL_CONTENT_ID": 93133
+        },
+        {
+            "CONTENT_ID": 93138,
+            "REL_CONTENT_ID": 93134
+        },
+        {
+            "CONTENT_ID": 93138,
+            "REL_CONTENT_ID": 93135
+        },
+        {
+            "CONTENT_ID": 93138,
+            "REL_CONTENT_ID": 93136
+        },
+        {
+            "CONTENT_ID": 93138,
+            "REL_CONTENT_ID": 93137
+        },
+        {
+            "CONTENT_ID": 93138,
+            "REL_CONTENT_ID": 93139
+        },
+        {
+            "CONTENT_ID": 93138,
+            "REL_CONTENT_ID": 93140
+        },
+        {
+            "CONTENT_ID": 93138,
+            "REL_CONTENT_ID": 93141
+        },
+        {
+            "CONTENT_ID": 93138,
+            "REL_CONTENT_ID": 93142
+        },
+        {
+            "CONTENT_ID": 93138,
+            "REL_CONTENT_ID": 93143
+        },
+        {
+            "CONTENT_ID": 93138,
+            "REL_CONTENT_ID": 93144
+        },
+        {
+            "CONTENT_ID": 93138,
+            "REL_CONTENT_ID": 93145
+        },
+        {
+            "CONTENT_ID": 93138,
+            "REL_CONTENT_ID": 93146
+        },
+        {
+            "CONTENT_ID": 93138,
+            "REL_CONTENT_ID": 93147
+        },
+        {
+            "CONTENT_ID": 93138,
+            "REL_CONTENT_ID": 93149
+        },
+        {
+            "CONTENT_ID": 93138,
+            "REL_CONTENT_ID": 93150
+        },
+        {
+            "CONTENT_ID": 93138,
+            "REL_CONTENT_ID": 93151
+        },
+        {
+            "CONTENT_ID": 93138,
+            "REL_CONTENT_ID": 93152
+        },
+        {
+            "CONTENT_ID": 93146,
+            "REL_CONTENT_ID": 93130
+        },
+        {
+            "CONTENT_ID": 93146,
+            "REL_CONTENT_ID": 93136
+        },
+        {
+            "CONTENT_ID": 93146,
+            "REL_CONTENT_ID": 93138
+        },
+        {
+            "CONTENT_ID": 93146,
+            "REL_CONTENT_ID": 93139
+        },
+        {
+            "CONTENT_ID": 93146,
+            "REL_CONTENT_ID": 93143
+        },
+        {
+            "CONTENT_ID": 93146,
+            "REL_CONTENT_ID": 93145
+        },
+        {
+            "CONTENT_ID": 93146,
+            "REL_CONTENT_ID": 93149
+        },
+        {
+            "CONTENT_ID": 93146,
+            "REL_CONTENT_ID": 93151
+        },
+        {
+            "CONTENT_ID": 93146,
+            "REL_CONTENT_ID": 93152
+        },
+        {
+            "CONTENT_ID": 93254,
+            "REL_CONTENT_ID": 239
+        },
+        {
+            "CONTENT_ID": 93254,
+            "REL_CONTENT_ID": 240
+        },
+        {
+            "CONTENT_ID": 93254,
+            "REL_CONTENT_ID": 84698
+        },
+        {
+            "CONTENT_ID": 93254,
+            "REL_CONTENT_ID": 85535
+        },
+        {
+            "CONTENT_ID": 93254,
+            "REL_CONTENT_ID": 85876
+        },
+        {
+            "CONTENT_ID": 93254,
+            "REL_CONTENT_ID": 86187
+        },
+        {
+            "CONTENT_ID": 93254,
+            "REL_CONTENT_ID": 87729
+        },
+        {
+            "CONTENT_ID": 93254,
+            "REL_CONTENT_ID": 88389
+        },
+        {
+            "CONTENT_ID": 93254,
+            "REL_CONTENT_ID": 88864
+        },
+        {
+            "CONTENT_ID": 93254,
+            "REL_CONTENT_ID": 88986
+        },
+        {
+            "CONTENT_ID": 93254,
+            "REL_CONTENT_ID": 89014
+        },
+        {
+            "CONTENT_ID": 93254,
+            "REL_CONTENT_ID": 89063
+        },
+        {
+            "CONTENT_ID": 93254,
+            "REL_CONTENT_ID": 89207
+        },
+        {
+            "CONTENT_ID": 93254,
+            "REL_CONTENT_ID": 89255
+        },
+        {
+            "CONTENT_ID": 93254,
+            "REL_CONTENT_ID": 89905
+        },
+        {
+            "CONTENT_ID": 93254,
+            "REL_CONTENT_ID": 92817
+        },
+        {
+            "CONTENT_ID": 93254,
+            "REL_CONTENT_ID": 92923
+        },
+        {
+            "CONTENT_ID": 93254,
+            "REL_CONTENT_ID": 93178
+        },
+        {
+            "CONTENT_ID": 93254,
+            "REL_CONTENT_ID": 93727
+        },
+        {
+            "CONTENT_ID": 93255,
+            "REL_CONTENT_ID": 88864
+        },
+        {
+            "CONTENT_ID": 93346,
+            "REL_CONTENT_ID": 93344
+        },
+        {
+            "CONTENT_ID": 93346,
+            "REL_CONTENT_ID": 93345
+        },
+        {
+            "CONTENT_ID": 93346,
+            "REL_CONTENT_ID": 93347
+        },
+        {
+            "CONTENT_ID": 93346,
+            "REL_CONTENT_ID": 93348
+        },
+        {
+            "CONTENT_ID": 93346,
+            "REL_CONTENT_ID": 93349
+        },
+        {
+            "CONTENT_ID": 93346,
+            "REL_CONTENT_ID": 93350
+        },
+        {
+            "CONTENT_ID": 93346,
+            "REL_CONTENT_ID": 93351
+        },
+        {
+            "CONTENT_ID": 93455,
+            "REL_CONTENT_ID": 93453
+        },
+        {
+            "CONTENT_ID": 93455,
+            "REL_CONTENT_ID": 93454
+        },
+        {
+            "CONTENT_ID": 93455,
+            "REL_CONTENT_ID": 93456
+        },
+        {
+            "CONTENT_ID": 93488,
+            "REL_CONTENT_ID": 84888
+        },
+        {
+            "CONTENT_ID": 93488,
+            "REL_CONTENT_ID": 85042
+        },
+        {
+            "CONTENT_ID": 93488,
+            "REL_CONTENT_ID": 85577
+        },
+        {
+            "CONTENT_ID": 93488,
+            "REL_CONTENT_ID": 86067
+        },
+        {
+            "CONTENT_ID": 93488,
+            "REL_CONTENT_ID": 87235
+        },
+        {
+            "CONTENT_ID": 93488,
+            "REL_CONTENT_ID": 87918
+        },
+        {
+            "CONTENT_ID": 93488,
+            "REL_CONTENT_ID": 89082
+        },
+        {
+            "CONTENT_ID": 93488,
+            "REL_CONTENT_ID": 89283
+        },
+        {
+            "CONTENT_ID": 93488,
+            "REL_CONTENT_ID": 89287
+        },
+        {
+            "CONTENT_ID": 93488,
+            "REL_CONTENT_ID": 89324
+        },
+        {
+            "CONTENT_ID": 93488,
+            "REL_CONTENT_ID": 92618
+        },
+        {
+            "CONTENT_ID": 93488,
+            "REL_CONTENT_ID": 92881
+        },
+        {
+            "CONTENT_ID": 93488,
+            "REL_CONTENT_ID": 93022
+        },
+        {
+            "CONTENT_ID": 93488,
+            "REL_CONTENT_ID": 93066
+        },
+        {
+            "CONTENT_ID": 93488,
+            "REL_CONTENT_ID": 93081
+        },
+        {
+            "CONTENT_ID": 93488,
+            "REL_CONTENT_ID": 93223
+        },
+        {
+            "CONTENT_ID": 93488,
+            "REL_CONTENT_ID": 93489
+        },
+        {
+            "CONTENT_ID": 93488,
+            "REL_CONTENT_ID": 93535
+        },
+        {
+            "CONTENT_ID": 93488,
+            "REL_CONTENT_ID": 93650
+        },
+        {
+            "CONTENT_ID": 93488,
+            "REL_CONTENT_ID": 94319
+        },
+        {
+            "CONTENT_ID": 93520,
+            "REL_CONTENT_ID": 25852
+        },
+        {
+            "CONTENT_ID": 93520,
+            "REL_CONTENT_ID": 84655
+        },
+        {
+            "CONTENT_ID": 93520,
+            "REL_CONTENT_ID": 85523
+        },
+        {
+            "CONTENT_ID": 93520,
+            "REL_CONTENT_ID": 85844
+        },
+        {
+            "CONTENT_ID": 93520,
+            "REL_CONTENT_ID": 86183
+        },
+        {
+            "CONTENT_ID": 93520,
+            "REL_CONTENT_ID": 87048
+        },
+        {
+            "CONTENT_ID": 93520,
+            "REL_CONTENT_ID": 88197
+        },
+        {
+            "CONTENT_ID": 93520,
+            "REL_CONTENT_ID": 88203
+        },
+        {
+            "CONTENT_ID": 93520,
+            "REL_CONTENT_ID": 88438
+        },
+        {
+            "CONTENT_ID": 93520,
+            "REL_CONTENT_ID": 88890
+        },
+        {
+            "CONTENT_ID": 93520,
+            "REL_CONTENT_ID": 89084
+        },
+        {
+            "CONTENT_ID": 93520,
+            "REL_CONTENT_ID": 89276
+        },
+        {
+            "CONTENT_ID": 93520,
+            "REL_CONTENT_ID": 89286
+        },
+        {
+            "CONTENT_ID": 93520,
+            "REL_CONTENT_ID": 89856
+        },
+        {
+            "CONTENT_ID": 93520,
+            "REL_CONTENT_ID": 92044
+        },
+        {
+            "CONTENT_ID": 93520,
+            "REL_CONTENT_ID": 92741
+        },
+        {
+            "CONTENT_ID": 93520,
+            "REL_CONTENT_ID": 93058
+        },
+        {
+            "CONTENT_ID": 93520,
+            "REL_CONTENT_ID": 93090
+        },
+        {
+            "CONTENT_ID": 93520,
+            "REL_CONTENT_ID": 93112
+        },
+        {
+            "CONTENT_ID": 93537,
+            "REL_CONTENT_ID": 84569
+        },
+        {
+            "CONTENT_ID": 93537,
+            "REL_CONTENT_ID": 84647
+        },
+        {
+            "CONTENT_ID": 93537,
+            "REL_CONTENT_ID": 85550
+        },
+        {
+            "CONTENT_ID": 93537,
+            "REL_CONTENT_ID": 85926
+        },
+        {
+            "CONTENT_ID": 93537,
+            "REL_CONTENT_ID": 86688
+        },
+        {
+            "CONTENT_ID": 93537,
+            "REL_CONTENT_ID": 87127
+        },
+        {
+            "CONTENT_ID": 93537,
+            "REL_CONTENT_ID": 87235
+        },
+        {
+            "CONTENT_ID": 93537,
+            "REL_CONTENT_ID": 87261
+        },
+        {
+            "CONTENT_ID": 93537,
+            "REL_CONTENT_ID": 87918
+        },
+        {
+            "CONTENT_ID": 93537,
+            "REL_CONTENT_ID": 88296
+        },
+        {
+            "CONTENT_ID": 93537,
+            "REL_CONTENT_ID": 88300
+        },
+        {
+            "CONTENT_ID": 93537,
+            "REL_CONTENT_ID": 88317
+        },
+        {
+            "CONTENT_ID": 93537,
+            "REL_CONTENT_ID": 88724
+        },
+        {
+            "CONTENT_ID": 93537,
+            "REL_CONTENT_ID": 89271
+        },
+        {
+            "CONTENT_ID": 93537,
+            "REL_CONTENT_ID": 89276
+        },
+        {
+            "CONTENT_ID": 93537,
+            "REL_CONTENT_ID": 89294
+        },
+        {
+            "CONTENT_ID": 93537,
+            "REL_CONTENT_ID": 89324
+        },
+        {
+            "CONTENT_ID": 93537,
+            "REL_CONTENT_ID": 89736
+        },
+        {
+            "CONTENT_ID": 93537,
+            "REL_CONTENT_ID": 92858
+        },
+        {
+            "CONTENT_ID": 93537,
+            "REL_CONTENT_ID": 92881
+        },
+        {
+            "CONTENT_ID": 93684,
+            "REL_CONTENT_ID": 244
+        },
+        {
+            "CONTENT_ID": 93684,
+            "REL_CONTENT_ID": 85932
+        },
+        {
+            "CONTENT_ID": 93684,
+            "REL_CONTENT_ID": 86798
+        },
+        {
+            "CONTENT_ID": 93684,
+            "REL_CONTENT_ID": 88275
+        },
+        {
+            "CONTENT_ID": 93684,
+            "REL_CONTENT_ID": 88558
+        },
+        {
+            "CONTENT_ID": 93684,
+            "REL_CONTENT_ID": 88680
+        },
+        {
+            "CONTENT_ID": 93684,
+            "REL_CONTENT_ID": 89083
+        },
+        {
+            "CONTENT_ID": 93684,
+            "REL_CONTENT_ID": 93185
+        },
+        {
+            "CONTENT_ID": 93684,
+            "REL_CONTENT_ID": 93236
+        },
+        {
+            "CONTENT_ID": 93684,
+            "REL_CONTENT_ID": 93304
+        },
+        {
+            "CONTENT_ID": 93684,
+            "REL_CONTENT_ID": 93685
+        },
+        {
+            "CONTENT_ID": 93684,
+            "REL_CONTENT_ID": 94447
+        },
+        {
+            "CONTENT_ID": 94248,
+            "REL_CONTENT_ID": 84814
+        },
+        {
+            "CONTENT_ID": 94248,
+            "REL_CONTENT_ID": 86467
+        },
+        {
+            "CONTENT_ID": 94248,
+            "REL_CONTENT_ID": 89286
+        },
+        {
+            "CONTENT_ID": 94248,
+            "REL_CONTENT_ID": 89326
+        },
+        {
+            "CONTENT_ID": 94329,
+            "REL_CONTENT_ID": 25852
+        },
+        {
+            "CONTENT_ID": 94329,
+            "REL_CONTENT_ID": 84888
+        },
+        {
+            "CONTENT_ID": 94329,
+            "REL_CONTENT_ID": 85550
+        },
+        {
+            "CONTENT_ID": 94329,
+            "REL_CONTENT_ID": 86347
+        },
+        {
+            "CONTENT_ID": 94329,
+            "REL_CONTENT_ID": 86497
+        },
+        {
+            "CONTENT_ID": 94329,
+            "REL_CONTENT_ID": 86993
+        },
+        {
+            "CONTENT_ID": 94329,
+            "REL_CONTENT_ID": 87592
+        },
+        {
+            "CONTENT_ID": 94329,
+            "REL_CONTENT_ID": 87976
+        },
+        {
+            "CONTENT_ID": 94329,
+            "REL_CONTENT_ID": 88753
+        },
+        {
+            "CONTENT_ID": 94329,
+            "REL_CONTENT_ID": 88834
+        },
+        {
+            "CONTENT_ID": 94329,
+            "REL_CONTENT_ID": 89276
+        },
+        {
+            "CONTENT_ID": 94329,
+            "REL_CONTENT_ID": 89283
+        },
+        {
+            "CONTENT_ID": 94329,
+            "REL_CONTENT_ID": 89286
+        },
+        {
+            "CONTENT_ID": 94329,
+            "REL_CONTENT_ID": 89324
+        },
+        {
+            "CONTENT_ID": 94329,
+            "REL_CONTENT_ID": 92817
+        },
+        {
+            "CONTENT_ID": 94329,
+            "REL_CONTENT_ID": 92824
+        },
+        {
+            "CONTENT_ID": 94329,
+            "REL_CONTENT_ID": 93022
+        },
+        {
+            "CONTENT_ID": 94329,
+            "REL_CONTENT_ID": 93537
+        },
+        {
+            "CONTENT_ID": 94329,
+            "REL_CONTENT_ID": 93556
+        },
+        {
+            "CONTENT_ID": 94329,
+            "REL_CONTENT_ID": 95196
+        },
+        {
+            "CONTENT_ID": 94404,
+            "REL_CONTENT_ID": 244
+        },
+        {
+            "CONTENT_ID": 94404,
+            "REL_CONTENT_ID": 71665
+        },
+        {
+            "CONTENT_ID": 94404,
+            "REL_CONTENT_ID": 84569
+        },
+        {
+            "CONTENT_ID": 94404,
+            "REL_CONTENT_ID": 84639
+        },
+        {
+            "CONTENT_ID": 94404,
+            "REL_CONTENT_ID": 84647
+        },
+        {
+            "CONTENT_ID": 94404,
+            "REL_CONTENT_ID": 85460
+        },
+        {
+            "CONTENT_ID": 94404,
+            "REL_CONTENT_ID": 85505
+        },
+        {
+            "CONTENT_ID": 94404,
+            "REL_CONTENT_ID": 87261
+        },
+        {
+            "CONTENT_ID": 94404,
+            "REL_CONTENT_ID": 87739
+        },
+        {
+            "CONTENT_ID": 94404,
+            "REL_CONTENT_ID": 87985
+        },
+        {
+            "CONTENT_ID": 94404,
+            "REL_CONTENT_ID": 88478
+        },
+        {
+            "CONTENT_ID": 94404,
+            "REL_CONTENT_ID": 88563
+        },
+        {
+            "CONTENT_ID": 94404,
+            "REL_CONTENT_ID": 89131
+        },
+        {
+            "CONTENT_ID": 94404,
+            "REL_CONTENT_ID": 89252
+        },
+        {
+            "CONTENT_ID": 94404,
+            "REL_CONTENT_ID": 89271
+        },
+        {
+            "CONTENT_ID": 94404,
+            "REL_CONTENT_ID": 89276
+        },
+        {
+            "CONTENT_ID": 94404,
+            "REL_CONTENT_ID": 89287
+        },
+        {
+            "CONTENT_ID": 94404,
+            "REL_CONTENT_ID": 89753
+        },
+        {
+            "CONTENT_ID": 94404,
+            "REL_CONTENT_ID": 92858
+        },
+        {
+            "CONTENT_ID": 94404,
+            "REL_CONTENT_ID": 93071
+        },
+        {
+            "CONTENT_ID": 94652,
+            "REL_CONTENT_ID": 243
+        },
+        {
+            "CONTENT_ID": 94652,
+            "REL_CONTENT_ID": 85851
+        },
+        {
+            "CONTENT_ID": 94652,
+            "REL_CONTENT_ID": 88571
+        },
+        {
+            "CONTENT_ID": 94652,
+            "REL_CONTENT_ID": 93537
+        },
+        {
+            "CONTENT_ID": 94677,
+            "REL_CONTENT_ID": 242
+        },
+        {
+            "CONTENT_ID": 94677,
+            "REL_CONTENT_ID": 244
+        },
+        {
+            "CONTENT_ID": 94677,
+            "REL_CONTENT_ID": 86662
+        },
+        {
+            "CONTENT_ID": 94677,
+            "REL_CONTENT_ID": 87127
+        },
+        {
+            "CONTENT_ID": 94677,
+            "REL_CONTENT_ID": 88275
+        },
+        {
+            "CONTENT_ID": 94677,
+            "REL_CONTENT_ID": 93113
+        },
+        {
+            "CONTENT_ID": 94677,
+            "REL_CONTENT_ID": 93181
+        },
+        {
+            "CONTENT_ID": 94677,
+            "REL_CONTENT_ID": 93685
+        },
+        {
+            "CONTENT_ID": 94682,
+            "REL_CONTENT_ID": 243
+        },
+        {
+            "CONTENT_ID": 94682,
+            "REL_CONTENT_ID": 84896
+        },
+        {
+            "CONTENT_ID": 94682,
+            "REL_CONTENT_ID": 86497
+        },
+        {
+            "CONTENT_ID": 94682,
+            "REL_CONTENT_ID": 87729
+        },
+        {
+            "CONTENT_ID": 94682,
+            "REL_CONTENT_ID": 87859
+        },
+        {
+            "CONTENT_ID": 94682,
+            "REL_CONTENT_ID": 88462
+        },
+        {
+            "CONTENT_ID": 94682,
+            "REL_CONTENT_ID": 89014
+        },
+        {
+            "CONTENT_ID": 94682,
+            "REL_CONTENT_ID": 89857
+        },
+        {
+            "CONTENT_ID": 94686,
+            "REL_CONTENT_ID": 89640
+        },
+        {
+            "CONTENT_ID": 94693,
+            "REL_CONTENT_ID": 89249
+        },
+        {
+            "CONTENT_ID": 94697,
+            "REL_CONTENT_ID": 243
+        },
+        {
+            "CONTENT_ID": 94697,
+            "REL_CONTENT_ID": 88969
+        },
+        {
+            "CONTENT_ID": 94700,
+            "REL_CONTENT_ID": 240
+        },
+        {
+            "CONTENT_ID": 94700,
+            "REL_CONTENT_ID": 71665
+        },
+        {
+            "CONTENT_ID": 94700,
+            "REL_CONTENT_ID": 72196
+        },
+        {
+            "CONTENT_ID": 94700,
+            "REL_CONTENT_ID": 85270
+        },
+        {
+            "CONTENT_ID": 94700,
+            "REL_CONTENT_ID": 86414
+        },
+        {
+            "CONTENT_ID": 94700,
+            "REL_CONTENT_ID": 87600
+        },
+        {
+            "CONTENT_ID": 94700,
+            "REL_CONTENT_ID": 87739
+        },
+        {
+            "CONTENT_ID": 94700,
+            "REL_CONTENT_ID": 88282
+        },
+        {
+            "CONTENT_ID": 94700,
+            "REL_CONTENT_ID": 88544
+        },
+        {
+            "CONTENT_ID": 94700,
+            "REL_CONTENT_ID": 88673
+        },
+        {
+            "CONTENT_ID": 94700,
+            "REL_CONTENT_ID": 89659
+        },
+        {
+            "CONTENT_ID": 94700,
+            "REL_CONTENT_ID": 92802
+        },
+        {
+            "CONTENT_ID": 94700,
+            "REL_CONTENT_ID": 93078
+        },
+        {
+            "CONTENT_ID": 94700,
+            "REL_CONTENT_ID": 93278
+        },
+        {
+            "CONTENT_ID": 94700,
+            "REL_CONTENT_ID": 93504
+        },
+        {
+            "CONTENT_ID": 94700,
+            "REL_CONTENT_ID": 93606
+        },
+        {
+            "CONTENT_ID": 94700,
+            "REL_CONTENT_ID": 93929
+        },
+        {
+            "CONTENT_ID": 94701,
+            "REL_CONTENT_ID": 85175
+        },
+        {
+            "CONTENT_ID": 94701,
+            "REL_CONTENT_ID": 85949
+        },
+        {
+            "CONTENT_ID": 94701,
+            "REL_CONTENT_ID": 88688
+        },
+        {
+            "CONTENT_ID": 94704,
+            "REL_CONTENT_ID": 84876
+        },
+        {
+            "CONTENT_ID": 94704,
+            "REL_CONTENT_ID": 85539
+        },
+        {
+            "CONTENT_ID": 94704,
+            "REL_CONTENT_ID": 85855
+        },
+        {
+            "CONTENT_ID": 94704,
+            "REL_CONTENT_ID": 86313
+        },
+        {
+            "CONTENT_ID": 94704,
+            "REL_CONTENT_ID": 87127
+        },
+        {
+            "CONTENT_ID": 94704,
+            "REL_CONTENT_ID": 88503
+        },
+        {
+            "CONTENT_ID": 94704,
+            "REL_CONTENT_ID": 88535
+        },
+        {
+            "CONTENT_ID": 94704,
+            "REL_CONTENT_ID": 88819
+        },
+        {
+            "CONTENT_ID": 94704,
+            "REL_CONTENT_ID": 88864
+        },
+        {
+            "CONTENT_ID": 94704,
+            "REL_CONTENT_ID": 88993
+        },
+        {
+            "CONTENT_ID": 94704,
+            "REL_CONTENT_ID": 89104
+        },
+        {
+            "CONTENT_ID": 94704,
+            "REL_CONTENT_ID": 89276
+        },
+        {
+            "CONTENT_ID": 94704,
+            "REL_CONTENT_ID": 89283
+        },
+        {
+            "CONTENT_ID": 94704,
+            "REL_CONTENT_ID": 89472
+        },
+        {
+            "CONTENT_ID": 94704,
+            "REL_CONTENT_ID": 89672
+        },
+        {
+            "CONTENT_ID": 94704,
+            "REL_CONTENT_ID": 92668
+        },
+        {
+            "CONTENT_ID": 94704,
+            "REL_CONTENT_ID": 92834
+        },
+        {
+            "CONTENT_ID": 94704,
+            "REL_CONTENT_ID": 93071
+        },
+        {
+            "CONTENT_ID": 94704,
+            "REL_CONTENT_ID": 93392
+        },
+        {
+            "CONTENT_ID": 94704,
+            "REL_CONTENT_ID": 93728
+        },
+        {
+            "CONTENT_ID": 94706,
+            "REL_CONTENT_ID": 84569
+        },
+        {
+            "CONTENT_ID": 94706,
+            "REL_CONTENT_ID": 84899
+        },
+        {
+            "CONTENT_ID": 94706,
+            "REL_CONTENT_ID": 86926
+        },
+        {
+            "CONTENT_ID": 94706,
+            "REL_CONTENT_ID": 87669
+        },
+        {
+            "CONTENT_ID": 94706,
+            "REL_CONTENT_ID": 88046
+        },
+        {
+            "CONTENT_ID": 94706,
+            "REL_CONTENT_ID": 88226
+        },
+        {
+            "CONTENT_ID": 94706,
+            "REL_CONTENT_ID": 88296
+        },
+        {
+            "CONTENT_ID": 94706,
+            "REL_CONTENT_ID": 88300
+        },
+        {
+            "CONTENT_ID": 94706,
+            "REL_CONTENT_ID": 89014
+        },
+        {
+            "CONTENT_ID": 94706,
+            "REL_CONTENT_ID": 89074
+        },
+        {
+            "CONTENT_ID": 94706,
+            "REL_CONTENT_ID": 89143
+        },
+        {
+            "CONTENT_ID": 94706,
+            "REL_CONTENT_ID": 89271
+        },
+        {
+            "CONTENT_ID": 94706,
+            "REL_CONTENT_ID": 89488
+        },
+        {
+            "CONTENT_ID": 94706,
+            "REL_CONTENT_ID": 89489
+        },
+        {
+            "CONTENT_ID": 94706,
+            "REL_CONTENT_ID": 89497
+        },
+        {
+            "CONTENT_ID": 94706,
+            "REL_CONTENT_ID": 89581
+        },
+        {
+            "CONTENT_ID": 94706,
+            "REL_CONTENT_ID": 89665
+        },
+        {
+            "CONTENT_ID": 94706,
+            "REL_CONTENT_ID": 91521
+        },
+        {
+            "CONTENT_ID": 94706,
+            "REL_CONTENT_ID": 93141
+        },
+        {
+            "CONTENT_ID": 94706,
+            "REL_CONTENT_ID": 94586
+        },
+        {
+            "CONTENT_ID": 94707,
+            "REL_CONTENT_ID": 85760
+        },
+        {
+            "CONTENT_ID": 94707,
+            "REL_CONTENT_ID": 87901
+        },
+        {
+            "CONTENT_ID": 94707,
+            "REL_CONTENT_ID": 89276
+        },
+        {
+            "CONTENT_ID": 94712,
+            "REL_CONTENT_ID": 89811
+        },
+        {
+            "CONTENT_ID": 94712,
+            "REL_CONTENT_ID": 92822
+        },
+        {
+            "CONTENT_ID": 94712,
+            "REL_CONTENT_ID": 92881
+        },
+        {
+            "CONTENT_ID": 94714,
+            "REL_CONTENT_ID": 244
+        },
+        {
+            "CONTENT_ID": 94714,
+            "REL_CONTENT_ID": 85208
+        },
+        {
+            "CONTENT_ID": 94714,
+            "REL_CONTENT_ID": 85550
+        },
+        {
+            "CONTENT_ID": 94714,
+            "REL_CONTENT_ID": 85577
+        },
+        {
+            "CONTENT_ID": 94714,
+            "REL_CONTENT_ID": 86546
+        },
+        {
+            "CONTENT_ID": 94714,
+            "REL_CONTENT_ID": 87235
+        },
+        {
+            "CONTENT_ID": 94714,
+            "REL_CONTENT_ID": 88313
+        },
+        {
+            "CONTENT_ID": 94714,
+            "REL_CONTENT_ID": 88753
+        },
+        {
+            "CONTENT_ID": 94714,
+            "REL_CONTENT_ID": 89255
+        },
+        {
+            "CONTENT_ID": 94714,
+            "REL_CONTENT_ID": 89262
+        },
+        {
+            "CONTENT_ID": 94714,
+            "REL_CONTENT_ID": 92618
+        },
+        {
+            "CONTENT_ID": 94714,
+            "REL_CONTENT_ID": 93081
+        },
+        {
+            "CONTENT_ID": 94714,
+            "REL_CONTENT_ID": 93108
+        },
+        {
+            "CONTENT_ID": 94714,
+            "REL_CONTENT_ID": 93126
+        },
+        {
+            "CONTENT_ID": 94714,
+            "REL_CONTENT_ID": 93670
+        },
+        {
+            "CONTENT_ID": 95752,
+            "REL_CONTENT_ID": 85550
+        },
+        {
+            "CONTENT_ID": 95752,
+            "REL_CONTENT_ID": 85577
+        },
+        {
+            "CONTENT_ID": 95752,
+            "REL_CONTENT_ID": 86940
+        },
+        {
+            "CONTENT_ID": 95752,
+            "REL_CONTENT_ID": 88275
+        },
+        {
+            "CONTENT_ID": 95752,
+            "REL_CONTENT_ID": 88558
+        },
+        {
+            "CONTENT_ID": 95752,
+            "REL_CONTENT_ID": 91020
+        },
+        {
+            "CONTENT_ID": 95752,
+            "REL_CONTENT_ID": 93537
+        },
+        {
+            "CONTENT_ID": 97592,
+            "REL_CONTENT_ID": 25852
+        },
+        {
+            "CONTENT_ID": 97592,
+            "REL_CONTENT_ID": 84647
+        },
+        {
+            "CONTENT_ID": 97592,
+            "REL_CONTENT_ID": 85813
+        },
+        {
+            "CONTENT_ID": 97592,
+            "REL_CONTENT_ID": 86006
+        },
+        {
+            "CONTENT_ID": 97592,
+            "REL_CONTENT_ID": 86311
+        },
+        {
+            "CONTENT_ID": 97592,
+            "REL_CONTENT_ID": 87127
+        },
+        {
+            "CONTENT_ID": 97592,
+            "REL_CONTENT_ID": 87859
+        },
+        {
+            "CONTENT_ID": 97592,
+            "REL_CONTENT_ID": 88197
+        },
+        {
+            "CONTENT_ID": 97592,
+            "REL_CONTENT_ID": 88224
+        },
+        {
+            "CONTENT_ID": 97592,
+            "REL_CONTENT_ID": 88515
+        },
+        {
+            "CONTENT_ID": 97592,
+            "REL_CONTENT_ID": 88679
+        },
+        {
+            "CONTENT_ID": 97592,
+            "REL_CONTENT_ID": 88986
+        },
+        {
+            "CONTENT_ID": 97592,
+            "REL_CONTENT_ID": 89276
+        },
+        {
+            "CONTENT_ID": 97592,
+            "REL_CONTENT_ID": 89286
+        },
+        {
+            "CONTENT_ID": 97592,
+            "REL_CONTENT_ID": 89305
+        },
+        {
+            "CONTENT_ID": 97592,
+            "REL_CONTENT_ID": 92618
+        },
+        {
+            "CONTENT_ID": 97592,
+            "REL_CONTENT_ID": 92741
+        },
+        {
+            "CONTENT_ID": 97592,
+            "REL_CONTENT_ID": 93727
+        },
+        {
+            "CONTENT_ID": 97592,
+            "REL_CONTENT_ID": 93730
+        },
+        {
+            "CONTENT_ID": 97592,
+            "REL_CONTENT_ID": 96116
+        }
+    ]
+}
