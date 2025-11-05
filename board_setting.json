@@ -1,0 +1,124 @@
+{
+    "TB_BOARD_SETTING": [
+        {
+            "BOARD_ID": "CONTENT",
+            "BOARD_NM": "컨텐츠정보",
+            "BOARD_TYPE": "BASIC",
+            "UI_TYPE": "UIDESIGN1",
+            "FAV_YN": "N",
+            "COMMENT_YN": "N",
+            "LIKED_YN": "N",
+            "UNLIKED_YN": "N",
+            "REPLY_YN": "N",
+            "REPLY_STEP_LIMIT": 0
+        },
+        {
+            "BOARD_ID": "COURSE",
+            "BOARD_NM": "추천코스",
+            "BOARD_TYPE": "BASIC",
+            "UI_TYPE": "UIDESIGN1",
+            "FAV_YN": "Y",
+            "COMMENT_YN": "N",
+            "LIKED_YN": "Y",
+            "UNLIKED_YN": "N",
+            "REPLY_YN": "N",
+            "REPLY_STEP_LIMIT": 0
+        },
+        {
+            "BOARD_ID": "CREATE",
+            "BOARD_NM": "크리에이트 영상게시판",
+            "BOARD_TYPE": "VIDEO",
+            "UI_TYPE": "UIDESIGN2",
+            "FAV_YN": "Y",
+            "COMMENT_YN": "N",
+            "LIKED_YN": "Y",
+            "UNLIKED_YN": "N",
+            "REPLY_YN": "Y",
+            "REPLY_STEP_LIMIT": 0
+        },
+        {
+            "BOARD_ID": "FREEBOARD",
+            "BOARD_NM": "자유게시판",
+            "BOARD_TYPE": "BASIC",
+            "UI_TYPE": "UIDESIGN1",
+            "FAV_YN": "Y",
+            "COMMENT_YN": "Y",
+            "LIKED_YN": "Y",
+            "UNLIKED_YN": "N",
+            "REPLY_YN": "Y",
+            "REPLY_STEP_LIMIT": 3
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "BOARD_NM": "영상게시판",
+            "BOARD_TYPE": "VIDEO",
+            "UI_TYPE": "UIDESIGN1",
+            "FAV_YN": "N",
+            "COMMENT_YN": "N",
+            "LIKED_YN": "N",
+            "UNLIKED_YN": "N",
+            "REPLY_YN": "N",
+            "REPLY_STEP_LIMIT": 0
+        },
+        {
+            "BOARD_ID": "NOTICE",
+            "BOARD_NM": "공지사항",
+            "BOARD_TYPE": "BASIC",
+            "UI_TYPE": "UIDESIGN3",
+            "FAV_YN": "N",
+            "COMMENT_YN": "N",
+            "LIKED_YN": "N",
+            "UNLIKED_YN": "N",
+            "REPLY_YN": "N",
+            "REPLY_STEP_LIMIT": 0
+        },
+        {
+            "BOARD_ID": "Olle",
+            "BOARD_NM": "올레길",
+            "BOARD_TYPE": "BLOG",
+            "UI_TYPE": "UIDESIGN1",
+            "FAV_YN": "N",
+            "COMMENT_YN": "N",
+            "LIKED_YN": "N",
+            "UNLIKED_YN": "N",
+            "REPLY_YN": "N",
+            "REPLY_STEP_LIMIT": 0
+        },
+        {
+            "BOARD_ID": "PYTHON",
+            "BOARD_NM": "파이썬",
+            "BOARD_TYPE": "BLOG",
+            "UI_TYPE": "UIDESIGN1",
+            "FAV_YN": "Y",
+            "COMMENT_YN": "N",
+            "LIKED_YN": "Y",
+            "UNLIKED_YN": "N",
+            "REPLY_YN": "N",
+            "REPLY_STEP_LIMIT": 0
+        },
+        {
+            "BOARD_ID": "QNA",
+            "BOARD_NM": "Q&amp;A",
+            "BOARD_TYPE": "QNA",
+            "UI_TYPE": "UIDESIGN1",
+            "FAV_YN": "N",
+            "COMMENT_YN": "Y",
+            "LIKED_YN": "N",
+            "UNLIKED_YN": "N",
+            "REPLY_YN": "N",
+            "REPLY_STEP_LIMIT": 0
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "BOARD_NM": "테마게시판 2022년",
+            "BOARD_TYPE": "BASIC",
+            "UI_TYPE": "UIDESIGN1",
+            "FAV_YN": "Y",
+            "COMMENT_YN": "N",
+            "LIKED_YN": "Y",
+            "UNLIKED_YN": "N",
+            "REPLY_YN": "N",
+            "REPLY_STEP_LIMIT": 0
+        }
+    ]
+}

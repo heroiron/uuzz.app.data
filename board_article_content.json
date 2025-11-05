@@ -1,0 +1,829 @@
+{
+    "TB_ARTICLE_CONTENT": [
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 89,
+            "CONTENT_ID": 84660
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 92,
+            "CONTENT_ID": 84948
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 92,
+            "CONTENT_ID": 87506
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 96,
+            "CONTENT_ID": 85119
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 96,
+            "CONTENT_ID": 89047
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 96,
+            "CONTENT_ID": 89262
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 101,
+            "CONTENT_ID": 72196
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 101,
+            "CONTENT_ID": 84796
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 101,
+            "CONTENT_ID": 87108
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 101,
+            "CONTENT_ID": 88504
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 103,
+            "CONTENT_ID": 84610
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 103,
+            "CONTENT_ID": 84639
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 103,
+            "CONTENT_ID": 84900
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 103,
+            "CONTENT_ID": 85103
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 103,
+            "CONTENT_ID": 85791
+        },
+        {
+            "BOARD_ID": "CONTENT",
+            "SEQ": 130,
+            "CONTENT_ID": 71665
+        },
+        {
+            "BOARD_ID": "CONTENT",
+            "SEQ": 130,
+            "CONTENT_ID": 86987
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 135,
+            "CONTENT_ID": 243
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 135,
+            "CONTENT_ID": 71665
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 135,
+            "CONTENT_ID": 86987
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 135,
+            "CONTENT_ID": 89014
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 135,
+            "CONTENT_ID": 89176
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 136,
+            "CONTENT_ID": 240
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 136,
+            "CONTENT_ID": 84584
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 136,
+            "CONTENT_ID": 84643
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 136,
+            "CONTENT_ID": 84715
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 136,
+            "CONTENT_ID": 85421
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 136,
+            "CONTENT_ID": 85968
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 136,
+            "CONTENT_ID": 86756
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 136,
+            "CONTENT_ID": 87054
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 136,
+            "CONTENT_ID": 87874
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 136,
+            "CONTENT_ID": 87987
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 136,
+            "CONTENT_ID": 89185
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 96
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 84544
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 84664
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 84710
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 84794
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 84862
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 85103
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 85188
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 85341
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 85493
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 85577
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 85591
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 85760
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 85993
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 86113
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 86340
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 86602
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 87241
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 87348
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 87376
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 87854
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 88099
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 88170
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 88556
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 88920
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 89014
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 89063
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 89080
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 89202
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 137,
+            "CONTENT_ID": 89255
+        },
+        {
+            "BOARD_ID": "Olle",
+            "SEQ": 140,
+            "CONTENT_ID": 71665
+        },
+        {
+            "BOARD_ID": "Olle",
+            "SEQ": 140,
+            "CONTENT_ID": 72196
+        },
+        {
+            "BOARD_ID": "Olle",
+            "SEQ": 140,
+            "CONTENT_ID": 85363
+        },
+        {
+            "BOARD_ID": "Olle",
+            "SEQ": 140,
+            "CONTENT_ID": 85852
+        },
+        {
+            "BOARD_ID": "Olle",
+            "SEQ": 140,
+            "CONTENT_ID": 86958
+        },
+        {
+            "BOARD_ID": "Olle",
+            "SEQ": 140,
+            "CONTENT_ID": 88536
+        },
+        {
+            "BOARD_ID": "Olle",
+            "SEQ": 140,
+            "CONTENT_ID": 88606
+        },
+        {
+            "BOARD_ID": "Olle",
+            "SEQ": 140,
+            "CONTENT_ID": 88909
+        },
+        {
+            "BOARD_ID": "Olle",
+            "SEQ": 140,
+            "CONTENT_ID": 89179
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 141,
+            "CONTENT_ID": 85550
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 148,
+            "CONTENT_ID": 240
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 148,
+            "CONTENT_ID": 241
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 148,
+            "CONTENT_ID": 71665
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 148,
+            "CONTENT_ID": 84569
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 148,
+            "CONTENT_ID": 84639
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 148,
+            "CONTENT_ID": 87053
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 148,
+            "CONTENT_ID": 88203
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 148,
+            "CONTENT_ID": 88275
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 148,
+            "CONTENT_ID": 88673
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 148,
+            "CONTENT_ID": 89214
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 152,
+            "CONTENT_ID": 70876
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 152,
+            "CONTENT_ID": 84702
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 152,
+            "CONTENT_ID": 85084
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 152,
+            "CONTENT_ID": 85103
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 152,
+            "CONTENT_ID": 85993
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 152,
+            "CONTENT_ID": 87633
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 152,
+            "CONTENT_ID": 88215
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 152,
+            "CONTENT_ID": 88377
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 152,
+            "CONTENT_ID": 88673
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 152,
+            "CONTENT_ID": 88688
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 153,
+            "CONTENT_ID": 241
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 153,
+            "CONTENT_ID": 57363
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 153,
+            "CONTENT_ID": 84544
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 153,
+            "CONTENT_ID": 84563
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 153,
+            "CONTENT_ID": 84690
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 153,
+            "CONTENT_ID": 87466
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 153,
+            "CONTENT_ID": 87600
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 153,
+            "CONTENT_ID": 88123
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 153,
+            "CONTENT_ID": 89047
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 153,
+            "CONTENT_ID": 89063
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 153,
+            "CONTENT_ID": 89084
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 153,
+            "CONTENT_ID": 89154
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 154,
+            "CONTENT_ID": 25852
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 154,
+            "CONTENT_ID": 86161
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 154,
+            "CONTENT_ID": 88219
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 154,
+            "CONTENT_ID": 88544
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 154,
+            "CONTENT_ID": 92757
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 154,
+            "CONTENT_ID": 92873
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 155,
+            "CONTENT_ID": 86324
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 155,
+            "CONTENT_ID": 86498
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 155,
+            "CONTENT_ID": 86926
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 155,
+            "CONTENT_ID": 89596
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 155,
+            "CONTENT_ID": 92798
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 155,
+            "CONTENT_ID": 94002
+        },
+        {
+            "BOARD_ID": "FREEBOARD",
+            "SEQ": 159,
+            "CONTENT_ID": 93344
+        },
+        {
+            "BOARD_ID": "FREEBOARD",
+            "SEQ": 159,
+            "CONTENT_ID": 93346
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 160,
+            "CONTENT_ID": 84544
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 160,
+            "CONTENT_ID": 84888
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 160,
+            "CONTENT_ID": 85550
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 160,
+            "CONTENT_ID": 85577
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 160,
+            "CONTENT_ID": 86523
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 160,
+            "CONTENT_ID": 86634
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 160,
+            "CONTENT_ID": 86926
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 160,
+            "CONTENT_ID": 88753
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 160,
+            "CONTENT_ID": 89287
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 160,
+            "CONTENT_ID": 93488
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 161,
+            "CONTENT_ID": 25854
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 161,
+            "CONTENT_ID": 84567
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 161,
+            "CONTENT_ID": 84942
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 161,
+            "CONTENT_ID": 86314
+        },
+        {
+            "BOARD_ID": "Freeboard",
+            "SEQ": 180,
+            "CONTENT_ID": 92874
+        },
+        {
+            "BOARD_ID": "Freeboard",
+            "SEQ": 180,
+            "CONTENT_ID": 92875
+        },
+        {
+            "BOARD_ID": "Freeboard",
+            "SEQ": 180,
+            "CONTENT_ID": 92876
+        },
+        {
+            "BOARD_ID": "Freeboard",
+            "SEQ": 181,
+            "CONTENT_ID": 86067
+        },
+        {
+            "BOARD_ID": "Freeboard",
+            "SEQ": 181,
+            "CONTENT_ID": 89760
+        },
+        {
+            "BOARD_ID": "Freeboard",
+            "SEQ": 181,
+            "CONTENT_ID": 93489
+        },
+        {
+            "BOARD_ID": "Freeboard",
+            "SEQ": 181,
+            "CONTENT_ID": 93556
+        },
+        {
+            "BOARD_ID": "Freeboard",
+            "SEQ": 182,
+            "CONTENT_ID": 89779
+        },
+        {
+            "BOARD_ID": "Freeboard",
+            "SEQ": 185,
+            "CONTENT_ID": 93344
+        },
+        {
+            "BOARD_ID": "Freeboard",
+            "SEQ": 185,
+            "CONTENT_ID": 93346
+        },
+        {
+            "BOARD_ID": "Freeboard",
+            "SEQ": 185,
+            "CONTENT_ID": 93350
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 202,
+            "CONTENT_ID": 87127
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 202,
+            "CONTENT_ID": 87741
+        },
+        {
+            "BOARD_ID": "MOVIE",
+            "SEQ": 202,
+            "CONTENT_ID": 88503
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 203,
+            "CONTENT_ID": 87127
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 203,
+            "CONTENT_ID": 87741
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 203,
+            "CONTENT_ID": 88503
+        },
+        {
+            "BOARD_ID": "FREEBOARD",
+            "SEQ": 207,
+            "CONTENT_ID": 84567
+        },
+        {
+            "BOARD_ID": "FREEBOARD",
+            "SEQ": 207,
+            "CONTENT_ID": 84942
+        },
+        {
+            "BOARD_ID": "FREEBOARD",
+            "SEQ": 207,
+            "CONTENT_ID": 87822
+        },
+        {
+            "BOARD_ID": "FREEBOARD",
+            "SEQ": 207,
+            "CONTENT_ID": 88544
+        },
+        {
+            "BOARD_ID": "FREEBOARD",
+            "SEQ": 207,
+            "CONTENT_ID": 88890
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 209,
+            "CONTENT_ID": 59412
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 209,
+            "CONTENT_ID": 84677
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 209,
+            "CONTENT_ID": 86693
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 209,
+            "CONTENT_ID": 88614
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 209,
+            "CONTENT_ID": 89309
+        },
+        {
+            "BOARD_ID": "THEME202211",
+            "SEQ": 209,
+            "CONTENT_ID": 92871
+        },
+        {
+            "BOARD_ID": "Freeboard",
+            "SEQ": 216,
+            "CONTENT_ID": 87750
+        },
+        {
+            "BOARD_ID": "Freeboard",
+            "SEQ": 216,
+            "CONTENT_ID": 94096
+        },
+        {
+            "BOARD_ID": "Freeboard",
+            "SEQ": 218,
+            "CONTENT_ID": 89268
+        },
+        {
+            "BOARD_ID": "Freeboard",
+            "SEQ": 218,
+            "CONTENT_ID": 92802
+        }
+    ]
+}
