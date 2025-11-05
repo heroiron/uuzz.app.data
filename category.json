@@ -86,9 +86,10 @@
         },
         {
             "CATEGORY_ID": "TOURINFO",
-            "CATEGORY_NM": "여행정보",
+            "CATEGORY_NM": "여행정보1",
             "CATEGORY_IMAGE": "assets/images/category/TOURINFO.jpg",
             "CATEGORY_ICON": "fa-info-circle"
         }
     ]
+
 }
